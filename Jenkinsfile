@@ -13,7 +13,7 @@ pipeline {
         }
         stage('Run') {
             steps {sh'gcloud compute zones list'
-                echo 'Allication run stage hellohyyy' 
+                echo 'Allication run stage Aiman' 
             }
         }
     }
